@@ -1,0 +1,10 @@
+[
+   {
+      "Repo":"ML-python-lightgbm-cpu-service",
+      "Tail":"-service"
+   },
+   {
+      "Repo":"ML-python-lightgbm-cpu-training",
+      "Tail":"-training"
+   }
+]
